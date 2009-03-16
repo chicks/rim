@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/rim
+lib/rim.rb
+test/test_rim.rb
